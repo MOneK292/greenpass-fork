@@ -6,4 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 scratch/
 split_plugin.py
+log/
 *.log
+telegram_drawables/
+telegram_svgs/

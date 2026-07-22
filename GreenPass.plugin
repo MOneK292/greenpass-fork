@@ -908,7 +908,7 @@ SINGBOX_SO_SIZE = int(SINGBOX_BUNDLE.get("so_size", 0) or 0)
 SINGBOX_SO_SHA256 = str(SINGBOX_BUNDLE.get("so_sha256", "") or "")
 SINGBOX_BUNDLE_SIZE = int(SINGBOX_BUNDLE.get("bundle_size", 0) or 0)
 SINGBOX_BUNDLE_SHA256 = str(SINGBOX_BUNDLE.get("bundle_sha256", "") or "")
-GREENPASS_UPDATE_URL = "https://raw.githubusercontent.com/Altuskhins/GreenPass/refs/heads/main/GreenPass.plugin" 
+GREENPASS_UPDATE_URL = ""
 VLESS_IMPORT_CLIPBOARD_MAX = 8192
 VLESS_LOCAL_HOST = "127.0.0.1"
 VLESS_LOCAL_PORT = 10804
@@ -18618,7 +18618,7 @@ Java.perform(function () {
             if 0 <= idx < len(modes):
                 self._select_mode_from_settings(modes[idx])
 
-        builder.set_title("Режим")
+        builder.set_title("Выбрать режим")
         builder.set_items(labels, _on_item)
         builder.set_negative_button("Отмена", lambda d, w: d.dismiss())
         builder.show()

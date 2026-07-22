@@ -10369,7 +10369,7 @@ Java.perform(function () {
             if 0 <= idx < len(modes):
                 self._select_mode_from_settings(modes[idx])
 
-        builder.set_title("Режим")
+        builder.set_title("Выбрать режим")
         builder.set_items(labels, _on_item)
         builder.set_negative_button("Отмена", lambda d, w: d.dismiss())
         builder.show()

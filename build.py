@@ -26,7 +26,7 @@ def build():
         with open(file_path, "r", encoding="utf-8") as f:
             lines = f.readlines()
             
-        # Strip local imports, adjust author and version
+        # Strip local imports, adjust author, version, and update URL
         cleaned_lines = []
         for line in lines:
             stripped = line.strip()
@@ -42,6 +42,8 @@ def build():
                     orig_version = match.group(1)
                     if not orig_version.endswith('f'):
                         line = f'__version__ = "{orig_version}f"\n'
+            elif stripped.startswith("GREENPASS_UPDATE_URL ="):
+                line = 'GREENPASS_UPDATE_URL = ""\n'
                         
             cleaned_lines.append(line)
             
