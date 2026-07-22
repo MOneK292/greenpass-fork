@@ -1,0 +1,8 @@
+-----start log 29_04_2026_00_23_46-----
+29_04_2026_00_23_46.581 D/tmessages: app start time = 0
+29_04_2026_00_23_46.581 D/tmessages: buildVersion = 65819
+29_04_2026_00_23_48.988 D/tmessages: Execute scripts on app event app_pause
+29_04_2026_00_23_49.008 D/tmessages: app paused = true
+29_04_2026_00_23_49.008 D/tmessages: app resume count 0
+29_04_2026_00_23_49.023 D/tmessages: switch to background
+29_04_2026_00_23_49.055 D/tmessages: Execute scripts on app event app_stop

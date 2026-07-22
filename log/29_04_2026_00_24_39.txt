@@ -1,0 +1,1203 @@
+-----start log 29_04_2026_00_24_39-----
+29_04_2026_00_24_39.283 E/tmessages: density = 2.625 display size = 1080 2400 428.625x426.293, screen layout: 268435810, statusbar height: 132, navbar height: 63
+29_04_2026_00_24_39.287 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.288 D/tmessages: app start time = 28111480
+29_04_2026_00_24_39.288 D/tmessages: buildVersion = v12.5.1 (6581[9]) universal arm64-v8a 
+29_04_2026_00_24_39.288 D/tmessages: device = manufacturer=Google, device=shiba, model=Pixel 8, product=shiba
+29_04_2026_00_24_39.290 D/tmessages: loaded normal lib
+29_04_2026_00_24_39.291 D/tmessages: load libs time = 3
+29_04_2026_00_24_39.296 D/tmessages: external dir mounted
+29_04_2026_00_24_39.296 D/tmessages: check dir /storage/emulated/0/Android/data/com.exteragram.messenger/cache 
+29_04_2026_00_24_39.297 D/tmessages: external dir mounted
+29_04_2026_00_24_39.298 D/tmessages: check dir /storage/emulated/0/Android/data/com.exteragram.messenger/cache 
+29_04_2026_00_24_39.298 D/tmessages: cache path = /storage/emulated/0/Android/data/com.exteragram.messenger/cache
+29_04_2026_00_24_39.298 D/tmessages: selected SD card = 
+29_04_2026_00_24_39.298 D/tmessages: external storage = /storage/emulated/0
+29_04_2026_00_24_39.315 D/tmessages: current db version = 168
+29_04_2026_00_24_39.327 D/tmessages: image path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Images
+29_04_2026_00_24_39.329 D/tmessages: video path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Video
+29_04_2026_00_24_39.330 D/tmessages: audio path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Audio
+29_04_2026_00_24_39.332 D/tmessages: documents path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Documents
+29_04_2026_00_24_39.333 D/tmessages: files path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Files
+29_04_2026_00_24_39.334 D/tmessages: stories path = /storage/emulated/0/Android/data/com.exteragram.messenger/files/exteraGram/exteraGram Stories
+29_04_2026_00_24_39.340 D/tmessages: getLocaleFileStrings: reloadLastFile = false
+29_04_2026_00_24_39.349 D/tmessages: image path = /storage/emulated/0/Android/media/com.exteragram.messenger/exteraGram/exteraGram Images
+29_04_2026_00_24_39.363 D/tmessages: applyLanguage: currentLocaleInfo is set
+29_04_2026_00_24_39.363 D/tmessages: applyLanguage: reloadLastFile=false force=false isLoadingRemote=false
+29_04_2026_00_24_39.364 D/tmessages: video path = /storage/emulated/0/Android/media/com.exteragram.messenger/exteraGram/exteraGram Video
+29_04_2026_00_24_39.365 D/tmessages: screen state = true
+29_04_2026_00_24_39.368 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.369 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.369 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.369 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.369 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.369 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.369 D/tmessages: address is good
+29_04_2026_00_24_39.369 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.369 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.369 D/tmessages: address is good
+29_04_2026_00_24_39.369 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.369 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.369 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.370 D/tmessages: address is good
+29_04_2026_00_24_39.370 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.375 D/tmessages: current db version = 168
+29_04_2026_00_24_39.379 D/tmessages: current db version = 168
+29_04_2026_00_24_39.390 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.391 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.391 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.391 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.391 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.391 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.391 D/tmessages: address is good
+29_04_2026_00_24_39.391 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.392 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.392 D/tmessages: address is good
+29_04_2026_00_24_39.392 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.392 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.392 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.392 D/tmessages: address is good
+29_04_2026_00_24_39.392 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.396 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.397 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.397 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.398 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.398 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.398 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.398 D/tmessages: address is good
+29_04_2026_00_24_39.398 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.398 D/tmessages: current db version = 168
+29_04_2026_00_24_39.398 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.398 D/tmessages: address is good
+29_04_2026_00_24_39.398 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.398 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.398 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.398 D/tmessages: address is good
+29_04_2026_00_24_39.399 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.399 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@81a86a1 with token = 1
+29_04_2026_00_24_39.404 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.406 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.406 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.406 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.406 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.406 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.406 D/tmessages: address is good
+29_04_2026_00_24_39.406 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.406 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.406 D/tmessages: address is good
+29_04_2026_00_24_39.406 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.406 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.406 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.406 D/tmessages: address is good
+29_04_2026_00_24_39.407 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.415 D/tmessages: current db version = 168
+29_04_2026_00_24_39.415 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.418 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.418 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.419 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.419 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.419 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.419 D/tmessages: address is good
+29_04_2026_00_24_39.419 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.419 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.419 D/tmessages: address is good
+29_04_2026_00_24_39.419 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.419 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.419 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.419 D/tmessages: address is good
+29_04_2026_00_24_39.420 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.427 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.428 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.428 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.428 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.428 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.428 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.428 D/tmessages: address is good
+29_04_2026_00_24_39.428 D/tmessages: current db version = 168
+29_04_2026_00_24_39.428 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.428 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.428 D/tmessages: address is good
+29_04_2026_00_24_39.429 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.429 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.429 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.429 D/tmessages: address is good
+29_04_2026_00_24_39.429 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.433 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.434 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.435 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.435 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.435 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.435 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.435 D/tmessages: address is good
+29_04_2026_00_24_39.435 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.436 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.436 D/tmessages: address is good
+29_04_2026_00_24_39.436 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.436 D/tmessages: current db version = 168
+29_04_2026_00_24_39.436 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.436 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.436 D/tmessages: address is good
+29_04_2026_00_24_39.436 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.439 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.440 D/tmessages: current db version = 168
+29_04_2026_00_24_39.440 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.440 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.441 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.441 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.441 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.441 D/tmessages: address is good
+29_04_2026_00_24_39.441 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.441 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.441 D/tmessages: address is good
+29_04_2026_00_24_39.441 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.441 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.441 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.441 D/tmessages: address is good
+29_04_2026_00_24_39.442 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.448 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.449 D/tmessages: current db version = 168
+29_04_2026_00_24_39.449 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.449 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.449 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.449 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.449 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.449 D/tmessages: address is good
+29_04_2026_00_24_39.449 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.449 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.449 D/tmessages: address is good
+29_04_2026_00_24_39.449 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.449 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.449 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.450 D/tmessages: address is good
+29_04_2026_00_24_39.450 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.455 D/tmessages: current db version = 168
+29_04_2026_00_24_39.456 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.457 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.457 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.458 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.458 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.458 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.458 D/tmessages: address is good
+29_04_2026_00_24_39.458 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.458 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.458 D/tmessages: address is good
+29_04_2026_00_24_39.458 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.458 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.458 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.458 D/tmessages: address is good
+29_04_2026_00_24_39.459 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.463 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.464 D/tmessages: current db version = 168
+29_04_2026_00_24_39.464 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.464 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.464 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.464 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.464 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.464 D/tmessages: address is good
+29_04_2026_00_24_39.465 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.465 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.465 D/tmessages: address is good
+29_04_2026_00_24_39.465 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.465 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.465 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.465 D/tmessages: address is good
+29_04_2026_00_24_39.466 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.469 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.469 D/tmessages: current db version = 168
+29_04_2026_00_24_39.470 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.470 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.471 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.471 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.471 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.471 D/tmessages: address is good
+29_04_2026_00_24_39.471 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.471 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.471 D/tmessages: address is good
+29_04_2026_00_24_39.471 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.471 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.471 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.471 D/tmessages: address is good
+29_04_2026_00_24_39.472 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.475 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.476 D/tmessages: current db version = 168
+29_04_2026_00_24_39.477 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.477 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.477 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.477 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.477 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.477 D/tmessages: address is good
+29_04_2026_00_24_39.477 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.477 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.477 D/tmessages: address is good
+29_04_2026_00_24_39.477 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.477 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.477 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.477 D/tmessages: address is good
+29_04_2026_00_24_39.477 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.483 D/tmessages: current db version = 168
+29_04_2026_00_24_39.487 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.488 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.488 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.488 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.489 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.489 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.489 D/tmessages: address is good
+29_04_2026_00_24_39.489 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.489 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.489 D/tmessages: address is good
+29_04_2026_00_24_39.489 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.489 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.489 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.489 D/tmessages: address is good
+29_04_2026_00_24_39.490 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.495 D/tmessages: current db version = 168
+29_04_2026_00_24_39.498 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.502 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.502 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.502 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.502 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.502 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.502 D/tmessages: address is good
+29_04_2026_00_24_39.502 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.503 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.503 D/tmessages: address is good
+29_04_2026_00_24_39.503 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.503 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.503 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.503 D/tmessages: address is good
+29_04_2026_00_24_39.503 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.508 D/tmessages: current db version = 168
+29_04_2026_00_24_39.516 D/tmessages: device performance info selected_class = 2 (cpu_count = 9, freq = 2134, memoryClass = 256, android version 36, manufacture Google, screenRefreshRate=120.00001, screenMaxRefreshRate=120.00001)
+29_04_2026_00_24_39.517 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.518 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.518 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.518 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.518 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.518 D/tmessages: address is good
+29_04_2026_00_24_39.520 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.520 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.520 D/tmessages: address is good
+29_04_2026_00_24_39.520 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.520 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.520 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.520 D/tmessages: address is good
+29_04_2026_00_24_39.520 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.520 D/tmessages: app initied
+29_04_2026_00_24_39.548 E/tmessages: density = 2.625 display size = 1080 2400 428.625x426.293, screen layout: 268435810, statusbar height: 132, navbar height: 63
+29_04_2026_00_24_39.552 D/tmessages: mediumWeightSupported = true
+29_04_2026_00_24_39.577 D/tmessages: folderId = 0 load cacheOffset = 0 count = 100 cache = true
+29_04_2026_00_24_39.655 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@5e08aee with token = 1
+29_04_2026_00_24_39.657 D/tmessages: current files db version = 7
+29_04_2026_00_24_39.666 D/tmessages: file db backup created /data/user/0/com.exteragram.messenger/files/account12/file_to_path_backup.db
+29_04_2026_00_24_39.666 D/tmessages: files db created from_backup= false
+29_04_2026_00_24_39.675 D/tmessages: OS name cp1a.260405.005 cp1a.260405.005
+29_04_2026_00_24_39.696 D/tmessages: start getDifference with date = 1777411471 pts = 1796118 qts = 0
+29_04_2026_00_24_39.696 D/tmessages: getDifference: isUpdating = true
+29_04_2026_00_24_39.696 D/tmessages: load contacts from cache
+29_04_2026_00_24_39.696 D/tmessages: load contacts from cache
+29_04_2026_00_24_39.696 D/tmessages: load contacts from cache
+29_04_2026_00_24_39.696 D/tmessages: load contacts from cache
+29_04_2026_00_24_39.697 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getRecentReactions@d7e4c3a with token = 2
+29_04_2026_00_24_39.697 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getTopReactions@8dc50eb with token = 3
+29_04_2026_00_24_39.697 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@7383e48 with token = 4
+29_04_2026_00_24_39.697 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@99ca4e1 with token = 5
+29_04_2026_00_24_39.697 D/tmessages: start getDifference with date = 1777411470 pts = 4696 qts = 0
+29_04_2026_00_24_39.697 D/tmessages: getDifference: isUpdating = true
+29_04_2026_00_24_39.697 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickers@8f4f206 with token = 6
+29_04_2026_00_24_39.699 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickerSet@32c0f19 with token = 7
+29_04_2026_00_24_39.699 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getGlobalPrivacySettings@cb23bde with token = 8
+29_04_2026_00_24_39.699 D/tmessages: start getDifference with date = 1777411470 pts = 3952 qts = 0
+29_04_2026_00_24_39.699 D/tmessages: getDifference: isUpdating = true
+29_04_2026_00_24_39.699 D/tmessages: loaded folderId 0 loadType 1 count 200
+29_04_2026_00_24_39.734 D/tmessages: start getDifference with date = 1777411470 pts = 6612 qts = 0
+29_04_2026_00_24_39.735 D/tmessages: getDifference: isUpdating = true
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickerSet@ef3479b with token = 9
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickerSet@4cdb311 with token = 10
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@84a9c76 with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_contacts_resolveUsername@ba90f13 with token = 11
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@5456550 with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@8e4c44e with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@f8b896f with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@d23867c with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@b023b05 with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@8ccd75a with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@2714d8b with token = 1
+29_04_2026_00_24_39.735 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@4f08281 with token = 1
+29_04_2026_00_24_39.736 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@de42914 with token = 1
+29_04_2026_00_24_39.736 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@821c5bd with token = 1
+29_04_2026_00_24_39.736 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@dcef7b2 with token = 1
+29_04_2026_00_24_39.736 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@643e303 with token = 1
+29_04_2026_00_24_39.736 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_updates_getDifference@9086198 with token = 12
+29_04_2026_00_24_39.737 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_updates_getDifference@1edff44 with token = 2
+29_04_2026_00_24_39.737 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_updates_getDifference@c6dcbb0 with token = 2
+29_04_2026_00_24_39.737 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_updates_getDifference@8ef8a29 with token = 2
+29_04_2026_00_24_39.740 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoDataEmpty@5ebbb46 messageId = 0x69f12597a7ae1400
+29_04_2026_00_24_39.758 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@9d02f4 messageId = 0x69f12597b2f1ac08
+29_04_2026_00_24_39.758 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@678ca1d messageId = 0x69f12597b3333400
+29_04_2026_00_24_39.760 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@8c81fd5 messageId = 0x69f12597b2f1ac00
+29_04_2026_00_24_39.760 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@aa6a3ea messageId = 0x69f12597b2f1ac04
+29_04_2026_00_24_39.763 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_globalPrivacySettings@791a845 messageId = 0x69f12597b333340c
+29_04_2026_00_24_39.764 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickerSet@4a7db9a messageId = 0x69f12597b3333408
+29_04_2026_00_24_39.771 E/tmessages: PipController: Failed to load registry
+java.lang.IllegalArgumentException: Map is non-empty29_04_2026_00_24_39.771 E/tmessages: 	at java.util.Collections.newSetFromMap(Collections.java:5989)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.exteragram.messenger.plugins.pip.PipController.loadRegistry(SourceFile:96)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.exteragram.messenger.plugins.pip.PipController.<clinit>(SourceFile:76)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.exteragram.messenger.plugins.PythonPluginsEngine.init(SourceFile:289)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.exteragram.messenger.plugins.PluginsController.init(SourceFile:334)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.exteragram.messenger.ExteraConfig.init(SourceFile:733)
+29_04_2026_00_24_39.771 E/tmessages: 	at org.telegram.ui.LaunchActivity.onCreate(SourceFile:746)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.Activity.performCreate(Activity.java:9290)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.Activity.performCreate(Activity.java:9268)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1543)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4503)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4723)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:224)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:133)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2987)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.os.Handler.dispatchMessageImpl(Handler.java:142)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.os.Handler.dispatchMessage(Handler.java:125)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.os.Looper.loopOnce(Looper.java:269)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.os.Looper.loop(Looper.java:367)
+29_04_2026_00_24_39.771 E/tmessages: 	at android.app.ActivityThread.main(ActivityThread.java:9333)
+29_04_2026_00_24_39.771 E/tmessages: 	at java.lang.reflect.Method.invoke(Native Method)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:566)
+29_04_2026_00_24_39.771 E/tmessages: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+29_04_2026_00_24_39.771 D/tmessages: PipController: Removing orphaned library: tenacity-9.1.4
+29_04_2026_00_24_39.774 D/tmessages: switch to foreground
+29_04_2026_00_24_39.792 D/tmessages: alert already showed for ru
+29_04_2026_00_24_39.793 D/tmessages: app paused = false
+29_04_2026_00_24_39.793 D/tmessages: app resume count 1
+29_04_2026_00_24_39.793 D/tmessages: reset app pause time
+29_04_2026_00_24_39.793 D/tmessages: Execute scripts on app event app_resume
+29_04_2026_00_24_39.801 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates_differenceEmpty@8213177 messageId = 0x69f12597bced9400
+29_04_2026_00_24_39.801 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates_differenceEmpty@c3e81e4 messageId = 0x69f12597bced9400
+29_04_2026_00_24_39.801 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@c88f64d messageId = 0x69f12597bc6a8000
+29_04_2026_00_24_39.801 D/tmessages: received differenceEmpty: isUpdating = false
+29_04_2026_00_24_39.802 D/tmessages: received difference with date = 1777411480 pts = 6612 seq = 135435 messages = 0 users = 0 chats = 0 other updates = 0
+29_04_2026_00_24_39.802 D/tmessages: received differenceEmpty: isUpdating = false
+29_04_2026_00_24_39.802 D/tmessages: received difference with date = 1777411480 pts = 4696 seq = 88239 messages = 0 users = 0 chats = 0 other updates = 0
+29_04_2026_00_24_39.803 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates_difference@c53d850 messageId = 0x69f12597bcac0800
+29_04_2026_00_24_39.804 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@97baa49 messageId = 0x69f12597bc6a8000
+29_04_2026_00_24_39.808 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@4ffef4e messageId = 0x69f12597bcac0800
+29_04_2026_00_24_39.818 D/tmessages: process update TL_updateChannel
+29_04_2026_00_24_39.818 D/tmessages: org.telegram.tgnet.TLRPC$TL_updateChannel@36d86f channelId = 1523471689
+29_04_2026_00_24_39.818 D/tmessages: process update TL_updateGroupCall
+29_04_2026_00_24_39.818 D/tmessages: received difference: isUpdating = false
+29_04_2026_00_24_39.818 D/tmessages: received difference with date = 1777411480 pts = 3952 seq = 471743 messages = 0 users = 0 chats = 1 other updates = 2
+29_04_2026_00_24_39.903 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getEmojiStatusGroups@302f007 with token = 13
+29_04_2026_00_24_39.930 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.930 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.930 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.930 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.930 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.930 D/tmessages: address is good
+29_04_2026_00_24_39.930 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.930 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.930 D/tmessages: address is good
+29_04_2026_00_24_39.930 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.930 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.930 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.930 D/tmessages: address is good
+29_04_2026_00_24_39.931 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.931 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.931 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.931 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.931 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.931 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.931 D/tmessages: address is good
+29_04_2026_00_24_39.931 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.931 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.931 D/tmessages: address is good
+29_04_2026_00_24_39.931 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.931 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.931 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.931 D/tmessages: address is good
+29_04_2026_00_24_39.931 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.932 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.932 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.932 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.932 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.932 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.932 D/tmessages: address is good
+29_04_2026_00_24_39.932 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.932 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.932 D/tmessages: address is good
+29_04_2026_00_24_39.932 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.932 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.932 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.932 D/tmessages: address is good
+29_04_2026_00_24_39.932 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.933 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.933 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.933 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.933 D/tmessages: address is good
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.933 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.933 D/tmessages: address is good
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.933 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.933 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.933 D/tmessages: address is good
+29_04_2026_00_24_39.933 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.933 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.933 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.933 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.933 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.933 D/tmessages: address is good
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.934 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.934 D/tmessages: address is good
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.934 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.934 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.934 D/tmessages: address is good
+29_04_2026_00_24_39.934 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.934 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.934 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.934 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.934 D/tmessages: address is good
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.934 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.934 D/tmessages: address is good
+29_04_2026_00_24_39.934 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.934 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.934 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.935 D/tmessages: address is good
+29_04_2026_00_24_39.935 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.936 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.936 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.936 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.936 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.936 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.936 D/tmessages: address is good
+29_04_2026_00_24_39.936 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.936 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.936 D/tmessages: address is good
+29_04_2026_00_24_39.936 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.936 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.936 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.936 D/tmessages: address is good
+29_04_2026_00_24_39.936 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.937 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.937 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.937 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.937 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.937 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.937 D/tmessages: address is good
+29_04_2026_00_24_39.937 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.937 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.937 D/tmessages: address is good
+29_04_2026_00_24_39.937 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.937 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.937 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.937 D/tmessages: address is good
+29_04_2026_00_24_39.937 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.937 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.938 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.938 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.938 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.938 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.938 D/tmessages: address is good
+29_04_2026_00_24_39.938 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.938 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.938 D/tmessages: address is good
+29_04_2026_00_24_39.938 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.938 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.938 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.938 D/tmessages: address is good
+29_04_2026_00_24_39.938 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.938 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.938 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.938 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.938 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.939 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.939 D/tmessages: address is good
+29_04_2026_00_24_39.939 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.939 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.939 D/tmessages: address is good
+29_04_2026_00_24_39.939 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.939 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.939 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.939 D/tmessages: address is good
+29_04_2026_00_24_39.939 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.939 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.939 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.939 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.939 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.939 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.939 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.940 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.940 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.940 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.940 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.940 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.940 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.940 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.940 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.940 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.940 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.940 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.940 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.940 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.940 D/tmessages: address is good
+29_04_2026_00_24_39.940 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.941 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.941 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.941 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.941 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.941 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.941 D/tmessages: address is good
+29_04_2026_00_24_39.941 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.941 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.942 D/tmessages: address is good
+29_04_2026_00_24_39.942 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.942 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.942 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.942 D/tmessages: address is good
+29_04_2026_00_24_39.942 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.942 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.942 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.942 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.942 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.942 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.942 D/tmessages: address is good
+29_04_2026_00_24_39.942 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.942 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.942 D/tmessages: address is good
+29_04_2026_00_24_39.942 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.943 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.943 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.943 D/tmessages: address is good
+29_04_2026_00_24_39.943 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.943 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.944 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.944 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.944 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.944 D/tmessages: address is good
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.944 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.944 D/tmessages: address is good
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.944 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.944 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.944 D/tmessages: address is good
+29_04_2026_00_24_39.944 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:dummy0 (dummy0)
+29_04_2026_00_24_39.944 D/tmessages: address: fe80::7870:1eff:feb8:8610%dummy0
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:wlan0 (wlan0)
+29_04_2026_00_24_39.944 D/tmessages: address: fe80::dcf2:4aff:fe19:f1bf%wlan0
+29_04_2026_00_24_39.944 D/tmessages: address: 192.168.31.14
+29_04_2026_00_24_39.944 D/tmessages: address is good
+29_04_2026_00_24_39.944 D/tmessages: valid interface: name:rmnet2 (rmnet2)
+29_04_2026_00_24_39.944 D/tmessages: address: 14.35.73.174
+29_04_2026_00_24_39.944 D/tmessages: address is good
+29_04_2026_00_24_39.945 D/tmessages: valid interface: name:tun0 (tun0)
+29_04_2026_00_24_39.945 D/tmessages: address: fe80::d28b:4b9e:1ebd:b9f%tun0
+29_04_2026_00_24_39.945 D/tmessages: address: 10.10.10.1
+29_04_2026_00_24_39.945 D/tmessages: address is good
+29_04_2026_00_24_39.945 D/tmessages: selected ip strategy 0
+29_04_2026_00_24_39.945 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.947 D/tmessages: setBadge 0
+29_04_2026_00_24_39.949 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.949 D/tmessages: setBadge 0
+29_04_2026_00_24_39.949 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.950 D/tmessages: setBadge 0
+29_04_2026_00_24_39.950 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.951 D/tmessages: setBadge 0
+29_04_2026_00_24_39.960 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.961 D/tmessages: setBadge 0
+29_04_2026_00_24_39.961 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.961 D/tmessages: setBadge 0
+29_04_2026_00_24_39.961 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.961 D/tmessages: setBadge 0
+29_04_2026_00_24_39.961 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.961 D/tmessages: setBadge 0
+29_04_2026_00_24_39.961 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.961 D/tmessages: setBadge 0
+29_04_2026_00_24_39.962 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.962 D/tmessages: setBadge 0
+29_04_2026_00_24_39.962 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.962 D/tmessages: setBadge 0
+29_04_2026_00_24_39.962 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.962 D/tmessages: setBadge 0
+29_04_2026_00_24_39.962 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_39.962 D/tmessages: setBadge 0
+29_04_2026_00_24_39.997 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickers@e16b58f messageId = 0x69f12597b3333404
+29_04_2026_00_24_39.998 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickerSet@697101c messageId = 0x69f12597bc28f800
+29_04_2026_00_24_39.998 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates_differenceEmpty@6e29425 messageId = 0x69f12597bd2f1c08
+29_04_2026_00_24_39.998 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_contacts_resolvedPeer@13a89fa messageId = 0x69f12597bd2f1c04
+29_04_2026_00_24_40.002 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickerSet@6ac5e52 messageId = 0x69f12597bd2f1c00
+29_04_2026_00_24_40.008 D/tmessages: received differenceEmpty: isUpdating = false
+29_04_2026_00_24_40.008 D/tmessages: received difference with date = 1777411480 pts = 1796118 seq = 81946 messages = 0 users = 0 chats = 0 other updates = 0
+29_04_2026_00_24_40.014 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_emojiGroupsNotModified@18d5523 messageId = 0x69f12597e72b0400
+29_04_2026_00_24_40.038 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getRecentReactions@778855b with token = 3
+29_04_2026_00_24_40.038 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getTopReactions@e1986d1 with token = 4
+29_04_2026_00_24_40.039 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@e984536 with token = 5
+29_04_2026_00_24_40.039 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@9b01c37 with token = 6
+29_04_2026_00_24_40.040 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getRecentReactions@a17b4b with token = 3
+29_04_2026_00_24_40.040 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getTopReactions@b0a8127 with token = 4
+29_04_2026_00_24_40.040 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@1fd0fd4 with token = 5
+29_04_2026_00_24_40.040 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@58a857d with token = 6
+29_04_2026_00_24_40.043 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getRecentReactions@7000217 with token = 3
+29_04_2026_00_24_40.043 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getTopReactions@cf8a8b3 with token = 4
+29_04_2026_00_24_40.043 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@29af5e9 with token = 5
+29_04_2026_00_24_40.043 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getDefaultProfilePhotoEmojis@e1de26e with token = 6
+29_04_2026_00_24_40.043 D/tmessages: switch to state 3
+29_04_2026_00_24_40.044 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@42407a5 with token = 1
+29_04_2026_00_24_40.044 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@5abbb88 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@727921 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@22bd146 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@88f9f07 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@e050834 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@3fd24a3 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@d0473a0 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@3e02b59 with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@37dc31e with token = 2
+29_04_2026_00_24_40.045 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@53367ff with token = 2
+29_04_2026_00_24_40.047 D/tmessages: send request org.telegram.tgnet.tl.TL_account$getAutoDownloadSettings@160851b with token = 2
+29_04_2026_00_24_40.067 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_40.070 D/tmessages: setBadge 0
+29_04_2026_00_24_40.088 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_40.088 D/tmessages: setBadge 0
+29_04_2026_00_24_40.089 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_users_getFullUser@df1b0e with token = 14
+29_04_2026_00_24_40.090 D/tmessages: create load operation fileName=2_773947703670341889.tgs documentName=AnimatedSticker.tgs size=7,1 KB position in queue 0 account=12 cacheType=1 priority=0 stream=null
+29_04_2026_00_24_40.096 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@bf935f7 messageId = 0x69f1259809fbe808
+29_04_2026_00_24_40.098 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@63dee83 messageId = 0x69f1259809fbe800
+29_04_2026_00_24_40.099 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getAvailableReactions@35ca800 with token = 15
+29_04_2026_00_24_40.099 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactions@1fe9ef5 messageId = 0x69f1259809ba6000
+29_04_2026_00_24_40.099 D/tmessages: switch to state 5
+29_04_2026_00_24_40.100 D/tmessages: done loading contacts
+29_04_2026_00_24_40.100 D/tmessages: load contacts from server
+29_04_2026_00_24_40.100 D/tmessages: done loading contacts
+29_04_2026_00_24_40.101 D/tmessages: load topics 1877362358 fromCache=true loadType=0
+29_04_2026_00_24_40.104 D/tmessages: load topics 1713734129 fromCache=true loadType=0
+29_04_2026_00_24_40.104 D/tmessages: load topics 2076957382 fromCache=true loadType=0
+29_04_2026_00_24_40.104 D/tmessages: load topics 2003242564 fromCache=true loadType=0
+29_04_2026_00_24_40.104 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@6284051 messageId = 0x69f125980a7efc08
+29_04_2026_00_24_40.104 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_contacts_getContacts@26240b6 with token = 7
+29_04_2026_00_24_40.104 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getPeerDialogs@65131b7 with token = 16
+29_04_2026_00_24_40.105 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@549b242 messageId = 0x69f125980a7efc00
+29_04_2026_00_24_40.105 D/tmessages: done loading contacts
+29_04_2026_00_24_40.105 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@d41a889 messageId = 0x69f1259809fbe804
+29_04_2026_00_24_40.105 D/tmessages: NotificationsController dismissNotification
+29_04_2026_00_24_40.105 D/tmessages: setBadge 0
+29_04_2026_00_24_40.105 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactions@384593e messageId = 0x69f125980a3d7000
+29_04_2026_00_24_40.106 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@3f94e9e messageId = 0x69f125980a7efc04
+29_04_2026_00_24_40.107 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@34ecd7f messageId = 0x69f125980b020c04
+29_04_2026_00_24_40.107 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@a64614c messageId = 0x69f125980b439800
+29_04_2026_00_24_40.107 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactions@98cc29b messageId = 0x69f125980b020c00
+29_04_2026_00_24_40.108 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_emojiListNotModified@c229376 messageId = 0x69f125980c083000
+29_04_2026_00_24_40.111 D/tmessages: start getChannelDifference with pts = 1 channelId = 1523471689
+29_04_2026_00_24_40.111 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_channels_getFullChannel@75222e5 with token = 7
+29_04_2026_00_24_40.112 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_updates_getChannelDifference@f87ffc8 with token = 8
+29_04_2026_00_24_40.112 D/tmessages: finished downloading file to /storage/emulated/0/Android/data/com.exteragram.messenger/cache/2_773947703670341889.tgs time = 2 dc = 2 size = 7,1 KB
+29_04_2026_00_24_40.120 D/tmessages: done loading contacts
+29_04_2026_00_24_40.124 D/tmessages: switch to state 3
+29_04_2026_00_24_40.129 D/tmessages: Execute scripts on app event app_pause
+29_04_2026_00_24_40.129 D/tmessages: app paused = true
+29_04_2026_00_24_40.129 D/tmessages: app resume count 0
+29_04_2026_00_24_40.133 D/tmessages: checkMediaExistance size=8 time=2 thread_time=1
+29_04_2026_00_24_40.138 D/tmessages: folderId = 0 load cacheOffset = -1 count = 100 cache = true
+29_04_2026_00_24_40.138 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_channels_getParticipants@bc96ac2 with token = 9
+29_04_2026_00_24_40.138 D/tmessages: loaded from cache 1877362358 topics_count=10
+29_04_2026_00_24_40.138 D/tmessages: processTopics=new_topics_size=10 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.138 D/tmessages: loaded from cache 1713734129 topics_count=6
+29_04_2026_00_24_40.138 D/tmessages: processTopics=new_topics_size=6 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.138 D/tmessages: load contacts from server
+29_04_2026_00_24_40.138 D/tmessages: 15 current cached contacts count = 0
+29_04_2026_00_24_40.138 D/tmessages: loaded from cache 2076957382 topics_count=11
+29_04_2026_00_24_40.138 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_contacts_getContacts@755c0d3 with token = 10
+29_04_2026_00_24_40.138 D/tmessages: processTopics=new_topics_size=11 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.142 D/tmessages: 14 current cached contacts count = 0
+29_04_2026_00_24_40.142 D/tmessages: loaded from cache 2003242564 topics_count=6
+29_04_2026_00_24_40.142 D/tmessages: processTopics=new_topics_size=6 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.142 D/tmessages: start read contacts from phone
+29_04_2026_00_24_40.142 D/tmessages: contacts sync disabled
+29_04_2026_00_24_40.142 D/tmessages: done processing contacts
+29_04_2026_00_24_40.142 D/tmessages: start read contacts from phone
+29_04_2026_00_24_40.142 D/tmessages: contacts sync disabled
+29_04_2026_00_24_40.142 D/tmessages: done processing contacts
+29_04_2026_00_24_40.143 D/tmessages: load contacts from server
+29_04_2026_00_24_40.143 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_contacts_getContacts@7635ec5 with token = 17
+29_04_2026_00_24_40.143 D/tmessages: checkMediaExistance size=34 time=7 thread_time=7
+29_04_2026_00_24_40.162 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_contacts_contacts@23a4b83 messageId = 0x69f125981a5e3400
+29_04_2026_00_24_40.188 D/tmessages: done loading contacts
+29_04_2026_00_24_40.188 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates_channelDifferenceTooLong@828321 messageId = 0x69f125981cac0804
+29_04_2026_00_24_40.192 D/tmessages: received channel difference with pts = 0 channelId = 1523471689
+29_04_2026_00_24_40.192 D/tmessages: new_messages = 0 messages = 1 users = 4 chats = 1 other updates = 0
+29_04_2026_00_24_40.194 D/tmessages: 13 current cached contacts count = 0
+29_04_2026_00_24_40.207 D/tmessages: loaded folderId 0 loadType 1 count 100
+29_04_2026_00_24_40.207 D/tmessages: 12 current cached contacts count = 0
+29_04_2026_00_24_40.230 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_chatFull@d561fc3 messageId = 0x69f125981cac0800
+29_04_2026_00_24_40.230 D/tmessages: current files db version = 7
+29_04_2026_00_24_40.233 D/tmessages: load topics 3090645081 fromCache=true loadType=0
+29_04_2026_00_24_40.233 D/tmessages: load topics 2421208868 fromCache=true loadType=0
+29_04_2026_00_24_40.233 D/tmessages: load topics 1905581924 fromCache=true loadType=0
+29_04_2026_00_24_40.233 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_users_userFull@e52e56e messageId = 0x69f12598170a4000
+29_04_2026_00_24_40.233 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_channels_channelParticipants@c70855d messageId = 0x69f125982353f800
+29_04_2026_00_24_40.233 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_availableReactionsNotModified@7794ed2 messageId = 0x69f1259819168800
+29_04_2026_00_24_40.255 D/tmessages: loaded from cache 3090645081 topics_count=3
+29_04_2026_00_24_40.255 D/tmessages: processTopics=new_topics_size=3 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.265 D/tmessages: alert already showed for ru
+29_04_2026_00_24_40.267 D/tmessages: app paused = false
+29_04_2026_00_24_40.267 D/tmessages: app resume count 1
+29_04_2026_00_24_40.267 D/tmessages: reset app pause time
+29_04_2026_00_24_40.267 D/tmessages: Execute scripts on app event app_resume
+29_04_2026_00_24_40.271 D/tmessages: loaded from cache 2421208868 topics_count=73
+29_04_2026_00_24_40.271 D/tmessages: processTopics=new_topics_size=73 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.281 D/tmessages: loaded from cache 1905581924 topics_count=8
+29_04_2026_00_24_40.281 D/tmessages: processTopics=new_topics_size=8 fromCache=true load_type=0 totalCount=-1
+29_04_2026_00_24_40.287 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_peerDialogs@b17e0fe messageId = 0x69f125981a9fc000
+29_04_2026_00_24_40.297 D/tmessages: Removed all menu items for plugin: GreenPass
+29_04_2026_00_24_40.304 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_contacts_contacts@b18285c messageId = 0x69f1259823d70c00
+29_04_2026_00_24_40.311 D/tmessages: Added menu item: greenpass_settings_open for plugin GreenPass in type chat_action_menu
+29_04_2026_00_24_40.311 D/tmessages: Added menu item: greenpass_settings_drawer for plugin GreenPass in type drawer_menu
+29_04_2026_00_24_40.314 D/tmessages: file db backup created /data/user/0/com.exteragram.messenger/files/account14/file_to_path_backup.db
+29_04_2026_00_24_40.315 D/tmessages: files db created from_backup= false
+29_04_2026_00_24_40.315 D/tmessages: checkMediaExistance size=1 time=87 thread_time=85
+29_04_2026_00_24_40.321 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getPeerDialogs@d4a2a23 with token = 18
+29_04_2026_00_24_40.326 D/tmessages: processDialogsUpdate -1523471689
+29_04_2026_00_24_40.326 D/tmessages: processDialogsUpdate dialog null
+29_04_2026_00_24_40.326 D/tmessages: processDialogsUpdate new message not null
+29_04_2026_00_24_40.327 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getHistory@9be6577 with token = 19
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadChannelInbox
+29_04_2026_00_24_40.327 D/tmessages: TL_updateReadChannelInbox -1713734129  new unread = 0 max id = 376 from get diff false
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadChannelInbox
+29_04_2026_00_24_40.327 D/tmessages: TL_updateReadChannelInbox -2157712021  new unread = 0 max id = 4980 from get diff false
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.327 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadChannelInbox
+29_04_2026_00_24_40.328 D/tmessages: TL_updateReadChannelInbox -2222987031  new unread = 0 max id = 9968 from get diff false
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.328 D/tmessages: process update TL_updateReadChannelInbox
+29_04_2026_00_24_40.328 D/tmessages: TL_updateReadChannelInbox -2793408378  new unread = 0 max id = 12 from get diff false
+29_04_2026_00_24_40.331 D/tmessages: -2793408378 set inbox max 12
+29_04_2026_00_24_40.331 D/tmessages: -2222987031 set inbox max 9968
+29_04_2026_00_24_40.331 D/tmessages: -2157712021 set inbox max 4980
+29_04_2026_00_24_40.331 D/tmessages: -1713734129 set inbox max 376
+29_04_2026_00_24_40.331 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@484568 with token = 20
+29_04_2026_00_24_40.331 D/tmessages: 939139333 set inbox max 872806
+29_04_2026_00_24_40.331 D/tmessages: peer settings loaded for 246642583 add = false block = false spam = false share = false geo = false hide = true distance = 0 invite = false
+29_04_2026_00_24_40.331 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickerSet@d060bd with token = 11
+29_04_2026_00_24_40.331 D/tmessages: 5379671451 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 5490477991 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 6045700879 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 6159622634 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 6496579531 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 7185200681 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 7805901084 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 7832619949 set inbox max 0
+29_04_2026_00_24_40.331 D/tmessages: 8345975832 set inbox max 0
+29_04_2026_00_24_40.339 D/tmessages: done loading contacts
+29_04_2026_00_24_40.342 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.353 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.353 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.358 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.360 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.369 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.379 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.384 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.384 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.384 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.384 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.385 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.385 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.385 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.385 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.386 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.389 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.389 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.389 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.395 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.395 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.398 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.398 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.408 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_40.413 D/tmessages: start read contacts from phone
+29_04_2026_00_24_40.413 D/tmessages: contacts sync disabled
+29_04_2026_00_24_40.414 D/tmessages: done processing contacts
+29_04_2026_00_24_40.414 D/tmessages: start read contacts from phone
+29_04_2026_00_24_40.414 D/tmessages: contacts sync disabled
+29_04_2026_00_24_40.414 D/tmessages: done processing contacts
+29_04_2026_00_24_40.464 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_contacts_contacts@609419a messageId = 0x69f1259823958000
+29_04_2026_00_24_40.470 D/tmessages: send request org.telegram.tgnet.tl.TL_stories$TL_stories_getPeerMaxIDs@85454a with token = 21
+29_04_2026_00_24_40.471 D/tmessages: done loading contacts
+29_04_2026_00_24_40.529 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickerSet@b6e8c28 messageId = 0x69f1259854395800
+29_04_2026_00_24_40.555 D/tmessages: add other uid = 6548884674 for account 12
+29_04_2026_00_24_40.556 D/tmessages: add other uid = 7179675322 for account 12
+29_04_2026_00_24_40.556 D/tmessages: add other uid = 6004801099 for account 12
+29_04_2026_00_24_40.556 D/tmessages: add other uid = 246642583 for account 13
+29_04_2026_00_24_40.556 D/tmessages: add other uid = 7179675322 for account 13
+29_04_2026_00_24_40.556 D/tmessages: add other uid = 6004801099 for account 13
+29_04_2026_00_24_40.557 D/tmessages: add other uid = 246642583 for account 14
+29_04_2026_00_24_40.557 D/tmessages: add other uid = 6548884674 for account 14
+29_04_2026_00_24_40.557 D/tmessages: add other uid = 6004801099 for account 14
+29_04_2026_00_24_40.557 D/tmessages: add other uid = 246642583 for account 15
+29_04_2026_00_24_40.557 D/tmessages: add other uid = 6548884674 for account 15
+29_04_2026_00_24_40.558 D/tmessages: add other uid = 7179675322 for account 15
+29_04_2026_00_24_40.558 D/tmessages: send request org.telegram.tgnet.tl.TL_account$registerDevice@322e882 with token = 22
+29_04_2026_00_24_40.558 D/tmessages: send request org.telegram.tgnet.tl.TL_account$registerDevice@8ec03c9 with token = 8
+29_04_2026_00_24_40.558 D/tmessages: send request org.telegram.tgnet.tl.TL_account$registerDevice@1cf70fc with token = 12
+29_04_2026_00_24_40.558 D/tmessages: send request org.telegram.tgnet.tl.TL_account$registerDevice@36105da with token = 7
+29_04_2026_00_24_40.566 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_40.609 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@4934baa messageId = 0x69f1259854395800
+29_04_2026_00_24_40.612 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_channelMessages@bb7f11 messageId = 0x69f1259853b64800
+29_04_2026_00_24_40.615 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@8b27876 messageId = 0x69f125988e978c00
+29_04_2026_00_24_40.615 D/tmessages: account 14 registered for push, push type: 2
+29_04_2026_00_24_40.615 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@f47fb4d messageId = 0x69f125988e978c00
+29_04_2026_00_24_40.615 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@ac5a602 messageId = 0x69f125988e978c00
+29_04_2026_00_24_40.615 D/tmessages: account 15 registered for push, push type: 2
+29_04_2026_00_24_40.616 D/tmessages: account 13 registered for push, push type: 2
+29_04_2026_00_24_40.617 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_peerDialogs@2a4d85f messageId = 0x69f1259851687400
+29_04_2026_00_24_40.617 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.617 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: process update TL_updateReadHistoryInbox
+29_04_2026_00_24_40.618 D/tmessages: 1202734496 set inbox max 0
+29_04_2026_00_24_40.619 D/tmessages: 6179010266 set inbox max 864692
+29_04_2026_00_24_40.619 D/tmessages: 7391288986 set inbox max 0
+29_04_2026_00_24_40.619 D/tmessages: 7453769018 set inbox max 0
+29_04_2026_00_24_40.619 D/tmessages: 7669359470 set inbox max 0
+29_04_2026_00_24_40.620 D/tmessages: 8006472611 set inbox max 867635
+29_04_2026_00_24_40.620 D/tmessages: 8061254468 set inbox max 0
+29_04_2026_00_24_40.620 D/tmessages: 8250446454 set inbox max 0
+29_04_2026_00_24_40.685 D/tmessages: java received org.telegram.tgnet.Vector@8a70e5e messageId = 0x69f1259878937400
+29_04_2026_00_24_40.716 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@c6b9c64 messageId = 0x69f125988e560400
+29_04_2026_00_24_40.716 D/tmessages: account 12 registered for push, push type: 2
+29_04_2026_00_24_40.735 D/tmessages: PipController: Installing tenacity (latest)
+29_04_2026_00_24_41.340 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@dbacd6a with token = 2
+29_04_2026_00_24_41.379 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@d1bf25b with token = 3
+29_04_2026_00_24_41.394 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@6201af8 with token = 23
+29_04_2026_00_24_41.395 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@7b33bd1 with token = 3
+29_04_2026_00_24_41.398 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@8305636 with token = 24
+29_04_2026_00_24_41.415 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@a9d5937 with token = 3
+29_04_2026_00_24_41.426 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@db7eea4 with token = 3
+29_04_2026_00_24_41.433 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@8dec40d with token = 3
+29_04_2026_00_24_41.438 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@5a39fc2 with token = 3
+29_04_2026_00_24_41.447 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@ec09409 with token = 3
+29_04_2026_00_24_41.454 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@d0ff60e with token = 3
+29_04_2026_00_24_41.460 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_appConfigNotModified@998382f messageId = 0x69f12599651eb800
+29_04_2026_00_24_41.463 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@14c3228 with token = 3
+29_04_2026_00_24_41.468 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@f98b8e6 with token = 3
+29_04_2026_00_24_41.474 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@440fe27 with token = 3
+29_04_2026_00_24_41.476 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@64648d4 messageId = 0x69f1259965e35400
+29_04_2026_00_24_41.486 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@e15ca7d with token = 9
+29_04_2026_00_24_41.487 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@ca77d72 with token = 10
+29_04_2026_00_24_41.500 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@e6548ca with token = 13
+29_04_2026_00_24_41.500 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@e0fba9c with token = 14
+29_04_2026_00_24_41.515 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getAppConfig@910a025 with token = 8
+29_04_2026_00_24_41.517 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@3415bd9 with token = 9
+29_04_2026_00_24_41.539 D/tmessages: request spam button for 246642583
+29_04_2026_00_24_41.540 D/tmessages: dialog bar already hidden for 246642583
+29_04_2026_00_24_41.540 D/tmessages: load messages in chat 246642583 topic_id 0 count 25 max_id 0 cache true mindate = 0 guid 4 load_type 2 last_message_id 0 mode 0 index 1 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false
+29_04_2026_00_24_41.540 D/tmessages: load messages in chat 246642583 topic_id 0 count 1 max_id 0 cache true mindate = 0 guid 4 load_type 2 last_message_id 0 mode 1 index 2 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false
+29_04_2026_00_24_41.540 D/tmessages: present fragment ChatActivity args=Bundle[{dialog_filter_id=0, user_id=246642583, dialog_folder_id=0}]
+29_04_2026_00_24_41.548 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_appConfigNotModified@d4c74a4 messageId = 0x69f125997c6a8000
+29_04_2026_00_24_41.550 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@ab19d17 messageId = 0x69f125997ced9400
+29_04_2026_00_24_41.558 D/tmessages: Removed all menu items for plugin: re_extera_dex
+29_04_2026_00_24_41.561 D/tmessages: messages load time = 11 for dialog = 246642583
+29_04_2026_00_24_41.561 D/tmessages: messages load time = 0 for dialog = 246642583
+29_04_2026_00_24_41.565 D/tmessages: processLoadedMessages size 25 in chat 246642583 topic_id 0 count 25 max_id 0 cache true guid 4 load_type 2 last_message_id 876697 index 1 firstUnread 0 unread_count 0 last_date 1777411309 queryFromServer false isTopic false mode 0
+29_04_2026_00_24_41.568 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_appConfigNotModified@6df897a messageId = 0x69f125997f7cf000
+29_04_2026_00_24_41.569 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@8e6cea3 messageId = 0x69f1259980000000
+29_04_2026_00_24_41.575 D/tmessages: ChatActivity.createView total=35ms
+#0  new ChatActivityTextSelectionHelper: 0ms
+#1  create ChatMessageCell n=15: 9ms
+
+29_04_2026_00_24_41.581 D/tmessages: end animations
+29_04_2026_00_24_41.588 D/tmessages: [re:extera] Fail on startIntercepting, no such method: org.telegram.messenger.SendMessagesHelper.sendMessage [class java.util.ArrayList, long, boolean, boolean, boolean, int, class org.telegram.messenger.MessageObject, int, long, long, class org.telegram.messenger.MessageSuggestionParams]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraIgnoreFlagSecure for an entry Entry[guid=-138442837, itemId=1, title=Игнорировать FLAG_SECURE, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraLocalPremium for an entry Entry[guid=-138442835, itemId=3, title=Локальный премиум, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraNoForward for an entry Entry[guid=-138442836, itemId=2, title=re:forward, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraAddSettingsToDrawer for an entry Entry[guid=-138442834, itemId=4, title=Настройки в боковом меню, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraFiltersEnter for an entry Entry[guid=-138442833, itemId=5, title=Фильтры, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraClearDb for an entry Entry[guid=-138442832, itemId=6, title=Очистить БД, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.589 D/tmessages: [Extera] Added link alias reExteraUnloadHooks for an entry Entry[guid=-138442831, itemId=7, title=Выгрузить хуки re:extera, subtext=Другое, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.AdditionalFragment]
+29_04_2026_00_24_41.590 D/tmessages: checkMediaExistance size=25 time=1 thread_time=1
+29_04_2026_00_24_41.590 D/tmessages: process time=29 count=25 for dialog  246642583
+29_04_2026_00_24_41.590 D/tmessages: processLoadedMessages size 0 in chat 246642583 topic_id 0 count 1 max_id 0 cache true guid 4 load_type 2 last_message_id 0 index 2 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false mode 1
+29_04_2026_00_24_41.591 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getDefaultTagReactions@da2bd80 with token = 25
+29_04_2026_00_24_41.591 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getQuickReplies@5be235f with token = 26
+29_04_2026_00_24_41.591 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getSearchCounters@3dbe75 with token = 27
+29_04_2026_00_24_41.591 D/tmessages: [Extera] Added link alias reExteraSaveDeletedMessages for an entry Entry[guid=103637535, itemId=1, title=Сохранять удаленные сообщения, subtext=Шпион, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.DeletedAndEditedMessagesFragment]
+29_04_2026_00_24_41.592 D/tmessages: [Extera] Added link alias reExteraSaveOneTimeMessages for an entry Entry[guid=103637536, itemId=2, title=Сохранять самоуничтожающиеся сообщения, subtext=Шпион, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.DeletedAndEditedMessagesFragment]
+29_04_2026_00_24_41.592 D/tmessages: [Extera] Added link alias reExteraSaveMessageHistory for an entry Entry[guid=103637537, itemId=3, title=Сохранить историю правок, subtext=Шпион, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.DeletedAndEditedMessagesFragment]
+29_04_2026_00_24_41.592 D/tmessages: [Extera] Added link alias reExteraRedDeletedMark for an entry Entry[guid=103637538, itemId=4, title=Красная метка удаленок, subtext=Шпион, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.DeletedAndEditedMessagesFragment]
+29_04_2026_00_24_41.594 D/tmessages: [Extera] Added link alias reExteraCustomDeletedMark for an entry Entry[guid=103637539, itemId=5, title=null, subtext=Шпион, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.DeletedAndEditedMessagesFragment]
+29_04_2026_00_24_41.594 D/tmessages: [Extera] Added link alias reExteraGhostMode for an entry Entry[guid=-2127170301, itemId=1, title=Режим призрака, subtext=Режим призрака, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.GhostFragment]
+29_04_2026_00_24_41.594 D/tmessages: [Extera] Added link alias reExteraUseSchedule for an entry Entry[guid=-2127170293, itemId=9, title=Использовать отложку, subtext=Режим призрака, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.GhostFragment]
+29_04_2026_00_24_41.595 D/tmessages: [Extera] Added link alias reExteraSendSilence for an entry Entry[guid=-2127170295, itemId=7, title=Отправлять без звука, subtext=Режим призрака, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.GhostFragment]
+29_04_2026_00_24_41.595 D/tmessages: [Extera] Added link alias reExteraAddGhostToDrawer for an entry Entry[guid=-2127170294, itemId=8, title=Кнопка призрака в боковом меню, subtext=Режим призрака, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.GhostFragment]
+29_04_2026_00_24_41.595 D/tmessages: [Extera] Added link alias reExteraExclusions for an entry Entry[guid=-2127170292, itemId=10, title=Исключения, subtext=Режим призрака, icon=0, fragmentClass=class ni.shikatu.re_extera.settings.newui.GhostFragment]
+29_04_2026_00_24_41.595 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getSavedDialogs@575c71f with token = 28
+29_04_2026_00_24_41.595 D/tmessages: notify data set changed fragmentOpened=false
+29_04_2026_00_24_41.595 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_appConfigNotModified@46368ed messageId = 0x69f1259984189400
+29_04_2026_00_24_41.595 D/tmessages: [Extera] Added link alias reExteraFiltersEnable for an entry Entry[guid=-1316785687, itemId=1, title=Включить фильтры, subtext=Фильтры, icon=0, fragmentClass=class ni.shikatu.re_extera.ui.RegexFiltersFragment]
+29_04_2026_00_24_41.595 D/tmessages: chatItemAnimator enable notifications
+29_04_2026_00_24_41.595 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getSavedReactionTags@224b60f with token = 29
+29_04_2026_00_24_41.595 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@41b2515 messageId = 0x69f12599845a1c00
+29_04_2026_00_24_41.600 D/tmessages: notify data set changed fragmentOpened=false
+29_04_2026_00_24_41.600 D/tmessages: MessageLoaderLogger dialogId=246642583 index=1 count=25 total=61ms
+#0  MessagesStorage.getMessages: storageQueue.postRunnable: 10ms
+#1  MessagesStorage.getMessages: 12ms
+#2  MessagesStorage.getMessages: stageQueue.postRunnable: 0ms
+#3  processLoadedMessages: 28ms
+#4  processLoadedMessages: runOnUIThread: 6ms
+#5  processLoadedMessages: post runOnUIThread: 4ms
+#6   loadReplyMessagesForMessages: 0ms
+#7    loadReplyMessagesForMessages: filling replies from the same array: 0ms
+#8    loadReplyMessagesForMessages: gathering ids of missing reply data: 0ms
+
+29_04_2026_00_24_41.600 D/tmessages: load messages in chat 246642583 topic_id 0 count 1 max_id 0 cache false mindate = 0 guid 4 load_type 2 last_message_id 0 mode 1 index 2 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false
+29_04_2026_00_24_41.601 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getScheduledHistory@15d65e7 with token = 30
+29_04_2026_00_24_41.616 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getMessagesReactions@d1d2d26 with token = 31
+29_04_2026_00_24_41.617 D/tmessages: [re:extera] Selected DEFAULT, not reading
+29_04_2026_00_24_41.618 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_readHistory@3b079b0 with token = 32
+29_04_2026_00_24_41.627 D/tmessages: load messages in chat 246642583 topic_id 0 count 50 max_id 876640 cache true mindate = 1777395353 guid 4 load_type 0 last_message_id 0 mode 0 index 3 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false
+29_04_2026_00_24_41.629 D/tmessages: messages load time = 2 for dialog = 246642583
+29_04_2026_00_24_41.629 D/tmessages: processLoadedMessages size 50 in chat 246642583 topic_id 0 count 50 max_id 876640 cache true guid 4 load_type 0 last_message_id 0 index 3 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false mode 0
+29_04_2026_00_24_41.649 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_quickReplies@912d156 messageId = 0x69f12599974bc804
+29_04_2026_00_24_41.650 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_reactionsNotModified@74f85d7 messageId = 0x69f12599974bc800
+29_04_2026_00_24_41.650 D/tmessages: java received org.telegram.tgnet.Vector@2edaec4 messageId = 0x69f12599978d5000
+29_04_2026_00_24_41.654 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_savedReactionsTagsNotModified@a0b51ad messageId = 0x69f1259998106404
+29_04_2026_00_24_41.655 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_savedDialogsNotModified@282ace2 messageId = 0x69f1259998106400
+29_04_2026_00_24_41.658 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_messages@64b61ea messageId = 0x69f1259999db2400
+29_04_2026_00_24_41.676 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_affectedMessages@cd600a7 messageId = 0x69f125999e354000
+29_04_2026_00_24_41.676 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updates@d80043 messageId = 0x69f125999db22c00
+29_04_2026_00_24_41.691 D/tmessages: checkMediaExistance size=50 time=1 thread_time=0
+29_04_2026_00_24_41.692 D/tmessages: process time=62 count=50 for dialog  246642583
+29_04_2026_00_24_41.692 D/tmessages: processLoadedMessages size 0 in chat 246642583 topic_id 0 count 1 max_id 0 cache false guid 4 load_type 2 last_message_id 0 index 2 firstUnread 0 unread_count 0 last_date 0 queryFromServer false isTopic false mode 1
+29_04_2026_00_24_41.692 D/tmessages: process time=0 count=0 for dialog  246642583
+29_04_2026_00_24_41.692 D/tmessages: processNewDifferenceParams seq = -1 pts = 1796118 date = -1 pts_count = 0
+29_04_2026_00_24_41.692 D/tmessages: APPLY PTS
+29_04_2026_00_24_41.697 D/tmessages: MessageLoaderLogger dialogId=246642583 index=3 count=50 total=70ms
+#0  MessagesStorage.getMessages: storageQueue.postRunnable: 0ms
+#1  MessagesStorage.getMessages: 2ms
+#2  MessagesStorage.getMessages: stageQueue.postRunnable: 0ms
+#3  processLoadedMessages: 62ms
+#4  processLoadedMessages: runOnUIThread: 4ms
+#5  processLoadedMessages: post runOnUIThread: 2ms
+#6   loadReplyMessagesForMessages: 0ms
+#7    loadReplyMessagesForMessages: filling replies from the same array: 0ms
+#8    loadReplyMessagesForMessages: gathering ids of missing reply data: 0ms
+
+29_04_2026_00_24_41.789 D/tmessages: getScrollingOffsetForView view=org.telegram.ui.Cells.ChatMessageCell{7887777 VF.D..... ........ 0,1688-1080,1869 aid=1073741936} results in {0} chatHeight=2100 bottom=1869 paddingBottom=231
+29_04_2026_00_24_41.790 D/tmessages: notify item removed 26
+29_04_2026_00_24_41.790 D/tmessages: notify item range inserted 26:82
+29_04_2026_00_24_41.790 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 0 cache = 1 classGuid = 4
+29_04_2026_00_24_41.790 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 1 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 2 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 3 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 4 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 5 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 6 cache = 1 classGuid = 4
+29_04_2026_00_24_41.791 D/tmessages: load media did 246642583 count = 30 max_id 0 type = 7 cache = 1 classGuid = 4
+29_04_2026_00_24_41.792 D/tmessages: process load media messagesCount 30 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 0 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.795 D/tmessages: process load media messagesCount 30 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 1 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.796 D/tmessages: process load media messagesCount 30 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 2 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.798 D/tmessages: process load media messagesCount 30 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 3 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.799 D/tmessages: process load media messagesCount 18 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 4 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.800 D/tmessages: process load media messagesCount 1 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 5 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.800 D/tmessages: process load media messagesCount 26 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 6 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.801 D/tmessages: process load media messagesCount 4 did 246642583 topicId 0 count = 30 max_id=0 min_id=0 type = 7 cache = 1 classGuid = 4 topReached=false
+29_04_2026_00_24_41.806 D/tmessages: checkMediaExistance size=30 time=2 thread_time=2
+29_04_2026_00_24_41.821 D/tmessages: checkMediaExistance size=30 time=13 thread_time=13
+29_04_2026_00_24_41.842 D/tmessages: checkMediaExistance size=30 time=11 thread_time=11
+29_04_2026_00_24_41.908 D/tmessages: checkMediaExistance size=30 time=1 thread_time=0
+29_04_2026_00_24_41.917 D/tmessages: checkMediaExistance size=18 time=5 thread_time=4
+29_04_2026_00_24_41.920 D/tmessages: checkMediaExistance size=1 time=2 thread_time=1
+29_04_2026_00_24_41.938 D/tmessages: checkMediaExistance size=26 time=9 thread_time=8
+29_04_2026_00_24_41.946 D/tmessages: checkMediaExistance size=4 time=5 thread_time=5
+29_04_2026_00_24_42.521 D/tmessages: Registered settings for plugin re_extera_dex
+29_04_2026_00_24_42.531 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getStickerSet@313a3ef with token = 33
+29_04_2026_00_24_42.577 D/tmessages: Removed all menu items for plugin: NimarkoMedia
+29_04_2026_00_24_42.581 D/tmessages: Added Xposed hook for plugin NimarkoMedia
+29_04_2026_00_24_42.581 D/tmessages: Added Xposed hook for plugin NimarkoMedia
+29_04_2026_00_24_42.582 D/tmessages: Added Xposed hook for plugin NimarkoMedia
+29_04_2026_00_24_42.582 D/tmessages: Added Xposed hook for plugin NimarkoMedia
+29_04_2026_00_24_42.582 D/tmessages: Added event hook 'send_message_hook' for plugin NimarkoMedia
+29_04_2026_00_24_42.582 D/tmessages: Added menu item: cb310b13-c32c-493f-8986-14c37e44aefb for plugin NimarkoMedia in type message_context_menu
+29_04_2026_00_24_42.606 D/tmessages: Registered settings for plugin NimarkoMedia
+29_04_2026_00_24_42.614 D/tmessages: Removed all menu items for plugin: hide_proxy_sponsor
+29_04_2026_00_24_42.626 D/tmessages: Added Xposed hook for plugin hide_proxy_sponsor
+29_04_2026_00_24_42.649 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_stickerSet@465af83 messageId = 0x69f1259a87efa000
+29_04_2026_00_24_42.732 D/tmessages: Removed all menu items for plugin: ar34quotify
+29_04_2026_00_24_42.733 D/tmessages: Added event hook 'send_message_hook' for plugin ar34quotify
+29_04_2026_00_24_42.747 D/tmessages: Registered settings for plugin ar34quotify
+29_04_2026_00_24_42.747 D/tmessages: Python plugin system initialized. Total: 9, Enabled: 5
+29_04_2026_00_24_42.755 D/tmessages: Execute scripts on app event app_start
+29_04_2026_00_24_43.700 D/tmessages: Removed menu item: greenpass_settings_open for plugin GreenPass
+29_04_2026_00_24_43.701 D/tmessages: Removed menu item: greenpass_settings_drawer for plugin GreenPass
+29_04_2026_00_24_43.727 D/tmessages: Removed all (24) hooks for plugin GreenPass
+29_04_2026_00_24_43.728 D/tmessages: Removed all menu items for plugin: GreenPass
+29_04_2026_00_24_44.157 D/tmessages: Removed all menu items for plugin: GreenPass
+29_04_2026_00_24_44.198 D/tmessages: Added menu item: greenpass_settings_open for plugin GreenPass in type chat_action_menu
+29_04_2026_00_24_44.203 D/tmessages: Added menu item: greenpass_settings_drawer for plugin GreenPass in type drawer_menu
+29_04_2026_00_24_44.222 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.237 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.237 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.245 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.250 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.256 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.263 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.277 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.278 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.278 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.285 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.291 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.291 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.291 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.299 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.299 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.305 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.305 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.316 D/tmessages: Added Xposed hook for plugin GreenPass
+29_04_2026_00_24_44.653 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_getMessagesViews@9330f9f with token = 34
+29_04_2026_00_24_44.716 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_messageViews@c507b64 messageId = 0x69f1259ca72b0400
+29_04_2026_00_24_44.812 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_messages_search@c01339d with token = 35
+29_04_2026_00_24_44.824 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_44.886 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_messages_channelMessages@d0d8f8c messageId = 0x69f1259cd020c400
+29_04_2026_00_24_46.099 D/tmessages: end animations
+29_04_2026_00_24_46.100 D/tmessages: end animations
+29_04_2026_00_24_46.109 D/tmessages: chatItemAnimator enable notifications
+29_04_2026_00_24_48.099 D/tmessages: present fragment PluginSettingsActivity args=null
+29_04_2026_00_24_48.931 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_48.936 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_49.100 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_49.121 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_49.528 D/tmessages: app paused = true
+29_04_2026_00_24_49.528 D/tmessages: app resume count -1
+29_04_2026_00_24_49.529 D/tmessages: app paused = true
+29_04_2026_00_24_49.529 D/tmessages: app resume count -1
+29_04_2026_00_24_49.529 D/tmessages: app paused = true
+29_04_2026_00_24_49.529 D/tmessages: app resume count -1
+29_04_2026_00_24_49.529 D/tmessages: app paused = true
+29_04_2026_00_24_49.529 D/tmessages: app resume count -1
+29_04_2026_00_24_49.529 D/tmessages: app paused = true
+29_04_2026_00_24_49.530 D/tmessages: app resume count -1
+29_04_2026_00_24_49.530 D/tmessages: app paused = true
+29_04_2026_00_24_49.530 D/tmessages: app resume count -1
+29_04_2026_00_24_49.530 D/tmessages: app paused = true
+29_04_2026_00_24_49.530 D/tmessages: app resume count -1
+29_04_2026_00_24_49.530 D/tmessages: app paused = true
+29_04_2026_00_24_49.530 D/tmessages: app resume count -1
+29_04_2026_00_24_49.530 D/tmessages: app paused = true
+29_04_2026_00_24_49.531 D/tmessages: app resume count -1
+29_04_2026_00_24_49.531 D/tmessages: app paused = true
+29_04_2026_00_24_49.531 D/tmessages: app resume count -1
+29_04_2026_00_24_49.531 D/tmessages: app paused = true
+29_04_2026_00_24_49.531 D/tmessages: app resume count -1
+29_04_2026_00_24_49.531 D/tmessages: app paused = true
+29_04_2026_00_24_49.531 D/tmessages: app resume count -1
+29_04_2026_00_24_49.531 D/tmessages: app paused = true
+29_04_2026_00_24_49.532 D/tmessages: app resume count 0
+29_04_2026_00_24_49.534 D/tmessages: app paused = true
+29_04_2026_00_24_49.534 D/tmessages: app resume count -1
+29_04_2026_00_24_49.534 D/tmessages: app paused = true
+29_04_2026_00_24_49.534 D/tmessages: app resume count -1
+29_04_2026_00_24_49.534 D/tmessages: app paused = true
+29_04_2026_00_24_49.534 D/tmessages: app resume count -1
+29_04_2026_00_24_49.538 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@a9c65bd with token = 36
+29_04_2026_00_24_49.539 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@ecf8303 with token = 11
+29_04_2026_00_24_49.539 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@f97e280 with token = 15
+29_04_2026_00_24_49.539 D/tmessages: send request org.telegram.tgnet.TLRPC$TL_help_getPromoData@9aea0b9 with token = 10
+29_04_2026_00_24_49.552 D/tmessages: switch to state 4
+29_04_2026_00_24_49.684 D/tmessages: app paused = false
+29_04_2026_00_24_49.685 D/tmessages: app resume count 1
+29_04_2026_00_24_49.685 D/tmessages: reset app pause time
+29_04_2026_00_24_49.702 D/tmessages: app paused = false
+29_04_2026_00_24_49.702 D/tmessages: app resume count 1
+29_04_2026_00_24_49.702 D/tmessages: reset app pause time
+29_04_2026_00_24_49.711 D/tmessages: app paused = false
+29_04_2026_00_24_49.711 D/tmessages: app resume count 1
+29_04_2026_00_24_49.711 D/tmessages: reset app pause time
+29_04_2026_00_24_49.737 D/tmessages: app paused = false
+29_04_2026_00_24_49.737 D/tmessages: app resume count 1
+29_04_2026_00_24_49.737 D/tmessages: reset app pause time
+29_04_2026_00_24_49.757 D/tmessages: app paused = false
+29_04_2026_00_24_49.759 D/tmessages: app resume count 1
+29_04_2026_00_24_49.759 D/tmessages: reset app pause time
+29_04_2026_00_24_49.780 D/tmessages: app paused = false
+29_04_2026_00_24_49.780 D/tmessages: app resume count 1
+29_04_2026_00_24_49.781 D/tmessages: reset app pause time
+29_04_2026_00_24_49.803 D/tmessages: app paused = false
+29_04_2026_00_24_49.803 D/tmessages: app resume count 1
+29_04_2026_00_24_49.804 D/tmessages: reset app pause time
+29_04_2026_00_24_49.821 D/tmessages: app paused = false
+29_04_2026_00_24_49.821 D/tmessages: app resume count 1
+29_04_2026_00_24_49.821 D/tmessages: reset app pause time
+29_04_2026_00_24_49.851 D/tmessages: app paused = false
+29_04_2026_00_24_49.852 D/tmessages: app resume count 1
+29_04_2026_00_24_49.853 D/tmessages: reset app pause time
+29_04_2026_00_24_49.885 D/tmessages: app paused = false
+29_04_2026_00_24_49.886 D/tmessages: app resume count 1
+29_04_2026_00_24_49.886 D/tmessages: reset app pause time
+29_04_2026_00_24_49.910 D/tmessages: app paused = false
+29_04_2026_00_24_49.910 D/tmessages: app resume count 1
+29_04_2026_00_24_49.910 D/tmessages: reset app pause time
+29_04_2026_00_24_49.930 D/tmessages: app paused = false
+29_04_2026_00_24_49.930 D/tmessages: app resume count 1
+29_04_2026_00_24_49.931 D/tmessages: reset app pause time
+29_04_2026_00_24_49.967 D/tmessages: app paused = false
+29_04_2026_00_24_49.968 D/tmessages: app resume count 1
+29_04_2026_00_24_49.968 D/tmessages: reset app pause time
+29_04_2026_00_24_49.990 D/tmessages: app paused = false
+29_04_2026_00_24_49.990 D/tmessages: app resume count 1
+29_04_2026_00_24_49.990 D/tmessages: reset app pause time
+29_04_2026_00_24_49.992 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@115727e with token = 12
+29_04_2026_00_24_50.016 D/tmessages: app paused = false
+29_04_2026_00_24_50.016 D/tmessages: app resume count 1
+29_04_2026_00_24_50.017 D/tmessages: reset app pause time
+29_04_2026_00_24_50.019 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@c43d82c with token = 16
+29_04_2026_00_24_50.056 D/tmessages: app paused = false
+29_04_2026_00_24_50.056 D/tmessages: app resume count 1
+29_04_2026_00_24_50.056 D/tmessages: reset app pause time
+29_04_2026_00_24_50.057 D/tmessages: send request org.telegram.tgnet.tl.TL_account$updateStatus@82c4b18 with token = 11
+29_04_2026_00_24_52.256 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_52.276 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_52.338 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_52.349 D/tmessages: Registered settings for plugin GreenPass
+29_04_2026_00_24_52.845 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@7b1c1dc messageId = 0x69f125a20147b000
+29_04_2026_00_24_52.854 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@1d27074 messageId = 0x69f125a20147b004
+29_04_2026_00_24_52.950 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@b0e5ca5 messageId = 0x69f125a21374bc00
+29_04_2026_00_24_52.987 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@6a64e82 messageId = 0x69f125a21374bc04
+29_04_2026_00_24_53.769 D/tmessages: switch to state 3
+29_04_2026_00_24_53.770 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updateShort@e5d73f0
+29_04_2026_00_24_53.770 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoData@ebddf1c messageId = 0x69f125a20b852000
+29_04_2026_00_24_53.772 D/tmessages: process update TL_updateMessagePoll
+29_04_2026_00_24_53.797 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_help_promoDataEmpty@242ae62 messageId = 0x69f125a1a6666800
+29_04_2026_00_24_53.807 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_boolTrue@2a9736a messageId = 0x69f125a20b852004
+29_04_2026_00_24_56.839 D/tmessages: present fragment PluginSettingsActivity args=null
+29_04_2026_00_24_58.866 D/tmessages: java received org.telegram.tgnet.TLRPC$TL_updateShort@8408af7
+29_04_2026_00_24_58.868 D/tmessages: process update TL_updateMessagePoll
