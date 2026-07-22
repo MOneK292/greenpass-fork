@@ -1,6 +1,7 @@
 import os
 import sys
 import subprocess
+import re
 
 FILES_TO_MERGE = [
     "src/metadata.py",
@@ -25,16 +26,26 @@ def build():
         with open(file_path, "r", encoding="utf-8") as f:
             lines = f.readlines()
             
-        # Strip local imports starting with "from src." or "import src"
+        # Strip local imports, adjust author and version
         cleaned_lines = []
         for line in lines:
             stripped = line.strip()
             if stripped.startswith("from src.") or stripped.startswith("import src."):
                 # Comment out or skip the local imports so the combined file remains valid
                 continue
+            
+            if stripped.startswith("__author__ ="):
+                line = '__author__ = "@likenoneother / gemini"\n'
+            elif stripped.startswith("__version__ ="):
+                match = re.search(r'__version__\s*=\s*["\']([^"\']+)["\']', line)
+                if match:
+                    orig_version = match.group(1)
+                    if not orig_version.endswith('f'):
+                        line = f'__version__ = "{orig_version}f"\n'
+                        
             cleaned_lines.append(line)
             
-        output_content.writelines(cleaned_lines) if hasattr(output_content, 'writelines') else output_content.extend(cleaned_lines)
+        output_content.extend(cleaned_lines)
 
     # Write output file
     with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
