@@ -3,7 +3,7 @@ __name__ = "GreenPass"
 __description__ = "Практически универсальный прокси плагин, поддержка протоколов vless/vmess/hysteria2/etc., встроенные tg-ws-proxy, AmneziaWG и olcrtc, а также полноценнымм проксированием звонков"
 __author__ = "@monekgen"
 __version__ = "2.2.0f"
-__icon__ = "monek_icons/1"
+__icon__ = "monek_icons/0"
 __min_version__ = "12.1.1"
 
 
