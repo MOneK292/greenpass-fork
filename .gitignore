@@ -10,5 +10,4 @@ log/
 *.log
 telegram_drawables/
 telegram_svgs/
-GreenPass.plugin
 build.py
