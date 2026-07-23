@@ -35,7 +35,7 @@ def build():
                 continue
             
             if stripped.startswith("__author__ ="):
-                line = '__author__ = "@likenoneother / gemini"\n'
+                line = '__author__ = "@monekgen"\n'
             elif stripped.startswith("__version__ ="):
                 match = re.search(r'__version__\s*=\s*["\']([^"\']+)["\']', line)
                 if match:

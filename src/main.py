@@ -10657,8 +10657,9 @@ Java.perform(function () {
 
         items = [
             Text(**status_item_kwargs),
+            Divider(),
+            Header(text="Управление"),
             Text(text="Импорт из буфера", accent=True, icon="msg_link", on_click=lambda *a: self._import_vless_from_clipboard()),
-            Text(text="Узлы и подписки", icon="msg_list", create_sub_fragment=self._create_vless_nodes_subpage),
         ]
         if nodes_count > 0:
             items.append(Text(text="Подключить лучший", icon="msg_retry", on_click=lambda *a: self._connect_best_vless_node()))
@@ -10667,17 +10668,53 @@ Java.perform(function () {
             items.append(Text(text="Обновить подписки", icon="msg_retry", on_click=lambda *a: self._refresh_vless_subscriptions()))
         else:
             items.append(Text(text="Встроенные подписки", icon="msg_channel", create_sub_fragment=self._create_builtin_vless_subs_subpage))
+        if nodes_count > 0:
+            items.append(Text(text="Очистить узлы", icon="msg_delete", red=True, on_click=lambda *a: self._confirm_clear_vless_nodes()))
 
+        manual = list(self._vless_data.get("manual", []) or [])
+        subs = list(self._vless_data.get("subs", []) or [])
+
+        if manual:
+            items.append(Divider())
+            items.append(Header(text="Свои узлы"))
+            for node in self._sorted_vless_nodes(manual):
+                is_active = str(node.get("uri", "") or "") == self._get_active_vless_uri()
+                items.append(Text(
+                    text=self._vless_node_label(node),
+                    icon="msg2_proxy_on" if is_active else "msg2_proxy_off",
+                    accent=is_active,
+                    on_click=lambda *a, uri=str(node.get("uri", "") or ""): self._activate_vless_uri(uri, enable_plugin=True),
+                    on_long_click=lambda view, uri=str(node.get("uri", "") or ""): self._confirm_remove_vless_node(uri),
+                ))
+
+        if subs:
+            items.append(Divider())
+            items.append(Header(text="Подписки"))
+            for sub in subs:
+                nodes = list(sub.get("nodes", []) or [])
+                if not nodes:
+                    continue
+                is_sub_active = bool(self._vless_subscription_has_active(sub))
+                items.append(Text(
+                    text=self._vless_subscription_label(sub),
+                    icon="msg_list",
+                    accent=is_sub_active,
+                    create_sub_fragment=lambda sub_url=str(sub.get("url", "") or ""): self._create_vless_subscription_subpage(sub_url),
+                    on_long_click=lambda view, url=str(sub.get("url", "") or ""): self._confirm_remove_vless_subscription(url),
+                ))
+
+        items.append(Divider())
+        items.append(Header(text="Ядро прокси"))
         core_status = self._libsingbox_addon_status()
         if core_status == "current":
             is_sb = _is_singbox_core(self._vless_core)
             core_label = "sing-box" if is_sb else "xray"
             items.append(Text(text="Ядро: %s" % core_label, subtext="Нажмите, чтобы удалить", icon="msg_delete", red=True, on_click=lambda *a: self._confirm_delete_vless_addon()))
             if not is_sb:
-                items.append(Text(text="Перескачать на sing-box", icon="msg_retry", on_click=lambda *a: self._download_vless_addon()))
+                items.append(Text(text="Перескачать на sing-box", icon="msg_download", on_click=lambda *a: self._download_vless_addon()))
         else:
             core_action = "Обновить ядро" if core_status == "outdated" and SINGBOX_BUNDLE_URLS else "Скачать ядро прокси"
-            items.append(Text(text=core_action, icon="msg_retry", on_click=lambda *a: self._download_vless_addon()))
+            items.append(Text(text=core_action, icon="msg_download", on_click=lambda *a: self._download_vless_addon()))
         return items
 
     def _build_tgws_mode_items(self):
